@@ -1,1 +1,1 @@
-# IOIF-PPSOntology
+# IOF-PPS Ontology
