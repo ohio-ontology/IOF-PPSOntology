@@ -45,7 +45,9 @@ obo:IAO_0000600 a owl:AnnotationProperty .
 # 
 # http://purl.obolibrary.org/obo/RO_0000053
 
-obo:RO_0000053 a owl:ObjectProperty .
+obo:RO_0000053 a owl:ObjectProperty ;
+	obo:IAO_0000115 "Inverse of inheres in"^^xsd:string ;
+	rdfs:label "bearer of"^^xsd:string .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/describes
 
@@ -117,12 +119,12 @@ cco:RepresentationalInformationContentEntity a owl:Class ;
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#AngleSpecification
 
 :AngleSpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000055> .
+	rdfs:subClassOf <http://www.industrialontologies.org/core#QualitySpecification> .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#ArtifactSpecification
 
 :ArtifactSpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000061> ;
+	rdfs:subClassOf <http://www.industrialontologies.org/core#Specification> ;
 	:definition-SemiFOL "An information content entity that specifies an Artifact"@en ;
 	rdfs:label "Artifact Specification"@en .
 # 
@@ -145,7 +147,7 @@ cco:RepresentationalInformationContentEntity a owl:Class ;
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#BoundarySpecification
 
 :BoundarySpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000061> ;
+	rdfs:subClassOf <http://www.industrialontologies.org/core#Specification> ;
 	rdfs:label "Boundary Specification"@en .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#ComponentPartMap
@@ -173,7 +175,7 @@ cco:RepresentationalInformationContentEntity a owl:Class ;
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#DimensionSpecification
 
 :DimensionSpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000055> .
+	rdfs:subClassOf <http://www.industrialontologies.org/core#QualitySpecification> .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#DimensionToleranceMap
 
@@ -248,7 +250,7 @@ _:genid2 a owl:Class .
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#FiatObjectSpecification
 
 :FiatObjectSpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000061> ;
+	rdfs:subClassOf <http://www.industrialontologies.org/core#Specification> ;
 	rdfs:label "Fiat Object Specification"@en .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#FormFeatureSpecification
@@ -264,12 +266,12 @@ _:genid2 a owl:Class .
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#LinearSpecification
 
 :LinearSpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000055> .
+	rdfs:subClassOf <http://www.industrialontologies.org/core#QualitySpecification> .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#LocationSpecification
 
 :LocationSpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000055> .
+	rdfs:subClassOf <http://www.industrialontologies.org/core#QualitySpecification> .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#MappingInformationContentEntity
 
@@ -281,7 +283,7 @@ _:genid2 a owl:Class .
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#OrientationSpecification
 
 :OrientationSpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000055> .
+	rdfs:subClassOf <http://www.industrialontologies.org/core#QualitySpecification> .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#PartDesignDocument
 
@@ -318,13 +320,13 @@ _:genid2 a owl:Class .
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#ProductSpecification
 
 :ProductSpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000061> ;
+	rdfs:subClassOf <http://www.industrialontologies.org/core#Specification> ;
 	rdfs:label "Product Specification"@en .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#RadialSpecification
 
 :RadialSpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000055> .
+	rdfs:subClassOf <http://www.industrialontologies.org/core#QualitySpecification> .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#SolidShellMap
 
@@ -354,7 +356,7 @@ _:genid2 a owl:Class .
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#ToleranceSpecification
 
 :ToleranceSpecification a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000055> .
+	rdfs:subClassOf <http://www.industrialontologies.org/core#QualitySpecification> .
 # 
 # http://www.ontologyrepository.com/CommonCoreOntologies/Mid/InformationEntityOntology#TopologicalMappingInformationContentEntity
 
@@ -370,15 +372,6 @@ _:genid2 a owl:Class .
 
 :WidthSpecification a owl:Class ;
 	rdfs:subClassOf :LinearSpecification .
-# 
-# https://www.industrialontologies.org/core/iof_00000055
-
-<https://www.industrialontologies.org/core/iof_00000055> a owl:Class ;
-	rdfs:subClassOf <https://www.industrialontologies.org/core/iof_00000061> .
-# 
-# https://www.industrialontologies.org/core/iof_00000061
-
-<https://www.industrialontologies.org/core/iof_00000061> a owl:Class .
 # 
 # 
 # 
