@@ -12,7 +12,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#">
     <owl:Ontology rdf:about="http://www.industrialontologies.org/core">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2020/bfo.owl"/>
         <rdfs:comment>This ontology is intended to reflect the Top-Down group, a working group of the Industrial Ontology Foundry (IOF). It is an OWL implementation of the ontology described in https://docs.google.com/document/d/1gwrGTOjFc3xdnfUsMVNGOHwasUQUBpKXxwyrKlC5UBI/edit</rdfs:comment>
         <owl:versionInfo>.001</owl:versionInfo>
     </owl:Ontology>
