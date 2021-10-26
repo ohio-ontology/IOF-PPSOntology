@@ -1,1 +1,40 @@
-assddfggsg
+Developing a Resource-Based Manufacturing Process Capability Ontology
+Year: 2020
+A Sarkar, D Sormaz, D Koonce, S Farah
+International Conference of Production Research-Americas, 293-306
+
+
+SIMPM-Upper-level ontology for manufacturing process plan network generation
+Year: 2019
+D Sormaz, A Sarkar
+Robotics and Computer-Integrated Manufacturing 55,183-198
+
+
+A First-Order Logic Formalization of the Industrial Ontologies Foundry Signature Using Basic Formal Ontology
+Year: 2019
+B Smith, F Ameri, H Cheong, D Kiritsis, D Sormaz, C Will, JN Otte
+JOWO
+
+
+Ontology model for process level capabilities of manufacturing resources
+Year: 2019
+A Sarkar, D Sormaz
+Procedia Manufacturing 39, 1889-1898
+
+
+On semantic interoperability of model-based definition of product design
+Year: 2019
+A Sarkar, D Sormaz
+Procedia Manufacturing 38, 513-523
+
+
+Metrics to gauge the success of a manufacturing ontology
+Year: 2019
+D Koonce, D Sormaz
+Procedia Manufacturing 38, 1678-1682
+
+
+Hierarchical Representation of Manufacturing Process Plans using PSL
+Year: 2019
+D Sormaz, A Sarkar
+JOWO
