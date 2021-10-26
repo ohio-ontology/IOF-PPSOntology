@@ -4,7 +4,7 @@ A Sarkar, D Sormaz, D Koonce, S Farah
 <i>International Conference of Production Research-Americas</i>, 293-306
 
 
-SIMPM-Upper-level ontology for manufacturing process plan network generation
+<a href="https://doi.org/10.1016/j.rcim.2018.04.002">SIMPM-Upper-level ontology for manufacturing process plan network generation</a>
 Year: 2019
 D Sormaz, A Sarkar
 Robotics and Computer-Integrated Manufacturing 55,183-198
