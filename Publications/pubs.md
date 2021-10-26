@@ -1,7 +1,7 @@
 Developing a Resource-Based Manufacturing Process Capability Ontology
 Year: 2020
 A Sarkar, D Sormaz, D Koonce, S Farah
-International Conference of Production Research-Americas, 293-306
+<i>International Conference of Production Research-Americas</i>, 293-306
 
 
 SIMPM-Upper-level ontology for manufacturing process plan network generation
