@@ -4,10 +4,7 @@ Sarkar, A., Sormaz, D., Koonce, D., & Farah, S. (2020) <a href= "https://doi.org
 Sormaz, D., & Sarkar, A. (2019) <a href="https://doi.org/10.1016/j.rcim.2018.04.002">SIMPM-Upper-level ontology for manufacturing process plan network generation</a>. <i>Robotics and Computer-Integrated Manufacturing</i>, 55, 183-198
 
 
-<a href= "https://www.researchgate.net/publication/336266083_A_First-Order_Logic_Formalization_of_the_Industrial_Ontologies_Foundry_Signature_Using_Basic_Formal_Ontology"> A First-Order Logic Formalization of the Industrial Ontologies Foundry Signature Using Basic Formal Ontology</a>. <i>JOWO</I>
-Year: 2019
-B Smith, F Ameri, H Cheong, D Kiritsis, D Sormaz, C Will, JN Otte
-JOWO
+Smith, B., Ameri, F., Cheong, H., Kiritsis, D., Sormaz, D., Will, C., & Otte, J. N. (2019) <a href= "https://www.researchgate.net/publication/336266083_A_First-Order_Logic_Formalization_of_the_Industrial_Ontologies_Foundry_Signature_Using_Basic_Formal_Ontology"> A First-Order Logic Formalization of the Industrial Ontologies Foundry Signature Using Basic Formal Ontology</a>. <i>JOWO</I>
 
 
 Ontology model for process level capabilities of manufacturing resources
