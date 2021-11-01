@@ -7,10 +7,7 @@ Sormaz, D., & Sarkar, A. (2019) <a href="https://doi.org/10.1016/j.rcim.2018.04.
 Smith, B., Ameri, F., Cheong, H., Kiritsis, D., Sormaz, D., Will, C., & Otte, J. N. (2019) <a href= "https://www.researchgate.net/publication/336266083_A_First-Order_Logic_Formalization_of_the_Industrial_Ontologies_Foundry_Signature_Using_Basic_Formal_Ontology"> A First-Order Logic Formalization of the Industrial Ontologies Foundry Signature Using Basic Formal Ontology</a>. <i>JOWO</I>
 
 
-Ontology model for process level capabilities of manufacturing resources
-Year: 2019
-A Sarkar, D Sormaz
-Procedia Manufacturing 39, 1889-1898
+Sarkar, A., & Sormaz, D. (2019) <a href= "https://doi.org/10.1016/j.promfg.2020.01.244">Ontology model for process level capabilities of manufacturing resources</a>. <i>Procedia Manufacturing</i>, 39, 1889-1898
 
 
 On semantic interoperability of model-based definition of product design
