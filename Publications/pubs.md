@@ -10,19 +10,10 @@ Smith, B., Ameri, F., Cheong, H., Kiritsis, D., Sormaz, D., Will, C., & Otte, J.
 Sarkar, A., & Sormaz, D. (2019) <a href= "https://doi.org/10.1016/j.promfg.2020.01.244">Ontology model for process level capabilities of manufacturing resources</a>. <i>Procedia Manufacturing</i>, 39, 1889-1898
 
 
-On semantic interoperability of model-based definition of product design
-Year: 2019
-A Sarkar, D Sormaz
-Procedia Manufacturing 38, 513-523
+Sarkar, A., & Sormaz, D. (2019) <a href= "https://doi.org/10.1016/j.promfg.2020.01.065">On semantic interoperability of model-based definition of product design</a>. <i>Procedia Manufacturing</i>, 38, 513-523
 
 
-Metrics to gauge the success of a manufacturing ontology
-Year: 2019
-D Koonce, D Sormaz
-Procedia Manufacturing 38, 1678-1682
+Koonce, D., & Sormaz, D. (2019) <a href= "https://doi.org/10.1016/j.promfg.2020.01.116">Metrics to gauge the success of a manufacturing ontology</a>. <i>Procedia Manufacturing</i>, 38, 1678-1682 
 
 
-Hierarchical Representation of Manufacturing Process Plans using PSL
-Year: 2019
-D Sormaz, A Sarkar
-JOWO
+Sormaz, D., & Sarkar, A. (2019) <a href= "http://ceur-ws.org/Vol-2518/paper-FOMI7.pdf">Hierarchical Representation of Manufacturing Process Plans using PSL</a>. <i>JOWO</i>
