@@ -1,4 +1,4 @@
-<a href= "10.1007/978-3-030-76307-7_22"> Developing a Resource-Based Manufacturing Process Capability Ontology
+<a href= "10.1007/978-3-030-76307-7_22"> Developing a Resource-Based Manufacturing Process Capability Ontology</a>
 Year: 2020
 A Sarkar, D Sormaz, D Koonce, S Farah
 <i>International Conference of Production Research-Americas</i>, 293-306
