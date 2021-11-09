@@ -17,7 +17,7 @@ Distributed computer integrated manufacturing is increasingly adopting cloud com
 
 
 
-3. Smith, B., Ameri, F., Cheong, H., Kiritsis, D., Sormaz, D., Will, C., & Otte, J. N. (2019) <a href= "https://www.researchgate.net/publication/336266083_A_First-Order_Logic_Formalization_of_the_Industrial_Ontologies_Foundry_Signature_Using_Basic_Formal_Ontology"> A First-Order Logic Formalization of the Industrial Ontologies Foundry Signature Using Basic Formal Ontology</a>. <i>Preceedings of the Joint Ontology Workshops 2019. Episode V: The Styrian Autumn of Ontology</I>
+3. Smith, B., Ameri, F., Cheong, H., Kiritsis, D., Sormaz, D., Will, C., & Otte, J. N. (2019) <a href= "https://www.researchgate.net/publication/336266083_A_First-Order_Logic_Formalization_of_the_Industrial_Ontologies_Foundry_Signature_Using_Basic_Formal_Ontology"> A First-Order Logic Formalization of the Industrial Ontologies Foundry Signature Using Basic Formal Ontology</a>. <i>Preceedings of the Joint Ontology Workshops 2019. Episode V: The Styrian Autumn of Ontology.</I>
 
 **Abstract**:
 Basic Formal Ontology (BFO) is a top-level ontology used in hundreds of active projects in scientific and other domains. BFO has been selected to serve as top-level ontology in the Industrial Ontologies Foundry (IOF), an initiative to create a suite of ontologies to support digital manufacturing on the part of representatives from a number of branches of the advanced manufacturing industries. We here present a first draft set of axioms and definitions of an IOF upper ontology descending from BFO. The axiomatization is designed to capture the meanings of terms commonly used in manufacturing and is designed to serve as starting point for the construction of the IOF ontology suite.
@@ -40,4 +40,7 @@ Fundamentally, the engineering designs are collections of information, which con
 **Abstract**:
 Ontologies are structures of concepts that define a high-level representation of a system or area. They can serve as a foundational understanding for developing or integrating software representations of said system. And while the construction of can be a complex, multi-party exercise, the assessment of ontologies is often defined less on usage and more on completeness and coverage. In manufacturing, ontology development ranges from supply chain to production to design. Owing to the computer science foundations of ontology design and representation, the value or quality of an ontology can be assessed on notions of completeness and coverage. Recently, researchers have posited that usage should factor into the Ontology Lifecycle. Similar to how the market, and not technology, defines the success of a product or technology, this paper will examine how utilization of an ontology can define the value or quality of the ontology.
 
-Sormaz, D., & Sarkar, A. (2019) <a href= "http://ceur-ws.org/Vol-2518/paper-FOMI7.pdf">Hierarchical Representation of Manufacturing Process Plans using PSL</a>. <i>JOWO</i>
+7. Sormaz, D., & Sarkar, A. (2019) <a href= "http://ceur-ws.org/Vol-2518/paper-FOMI7.pdf">Hierarchical Representation of Manufacturing Process Plans using PSL</a>. <i>Preceedings of the Joint Ontology Workshops 2019. Episode V: The Styrian Autumn of Ontology.</i>
+
+**Abstract**:
+
