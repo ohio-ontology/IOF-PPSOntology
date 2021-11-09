@@ -17,7 +17,10 @@ Distributed computer integrated manufacturing is increasingly adopting cloud com
 
 
 
-Smith, B., Ameri, F., Cheong, H., Kiritsis, D., Sormaz, D., Will, C., & Otte, J. N. (2019) <a href= "https://www.researchgate.net/publication/336266083_A_First-Order_Logic_Formalization_of_the_Industrial_Ontologies_Foundry_Signature_Using_Basic_Formal_Ontology"> A First-Order Logic Formalization of the Industrial Ontologies Foundry Signature Using Basic Formal Ontology</a>. <i>JOWO</I>
+3. Smith, B., Ameri, F., Cheong, H., Kiritsis, D., Sormaz, D., Will, C., & Otte, J. N. (2019) <a href= "https://www.researchgate.net/publication/336266083_A_First-Order_Logic_Formalization_of_the_Industrial_Ontologies_Foundry_Signature_Using_Basic_Formal_Ontology"> A First-Order Logic Formalization of the Industrial Ontologies Foundry Signature Using Basic Formal Ontology</a>. <i>Preceedings of the Joint Ontology Workshops 2019. Episode V: The Styrian Autumn of Ontology</I>
+
+**Abstract**:
+
 
 
 Sarkar, A., & Sormaz, D. (2019) <a href= "https://doi.org/10.1016/j.promfg.2020.01.244">Ontology model for process level capabilities of manufacturing resources</a>. <i>Procedia Manufacturing</i>, 39, 1889-1898
