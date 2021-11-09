@@ -20,10 +20,10 @@ Distributed computer integrated manufacturing is increasingly adopting cloud com
 3. Smith, B., Ameri, F., Cheong, H., Kiritsis, D., Sormaz, D., Will, C., & Otte, J. N. (2019) <a href= "https://www.researchgate.net/publication/336266083_A_First-Order_Logic_Formalization_of_the_Industrial_Ontologies_Foundry_Signature_Using_Basic_Formal_Ontology"> A First-Order Logic Formalization of the Industrial Ontologies Foundry Signature Using Basic Formal Ontology</a>. <i>Preceedings of the Joint Ontology Workshops 2019. Episode V: The Styrian Autumn of Ontology</I>
 
 **Abstract**:
+Basic Formal Ontology (BFO) is a top-level ontology used in hundreds of active projects in scientific and other domains. BFO has been selected to serve as top-level ontology in the Industrial Ontologies Foundry (IOF), an initiative to create a suite of ontologies to support digital manufacturing on the part of representatives from a number of branches of the advanced manufacturing industries. We here present a first draft set of axioms and definitions of an IOF upper ontology descending from BFO. The axiomatization is designed to capture the meanings of terms commonly used in manufacturing and is designed to serve as starting point for the construction of the IOF ontology suite.
 
 
-
-Sarkar, A., & Sormaz, D. (2019) <a href= "https://doi.org/10.1016/j.promfg.2020.01.244">Ontology model for process level capabilities of manufacturing resources</a>. <i>Procedia Manufacturing</i>, 39, 1889-1898
+4. Sarkar, A., & Sormaz, D. (2019) <a href= "https://doi.org/10.1016/j.promfg.2020.01.244">Ontology model for process level capabilities of manufacturing resources</a>. <i>Procedia Manufacturing</i>, 39, 1889-1898
 
 
 Sarkar, A., & Sormaz, D. (2019) <a href= "https://doi.org/10.1016/j.promfg.2020.01.065">On semantic interoperability of model-based definition of product design</a>. <i>Procedia Manufacturing</i>, 38, 513-523
