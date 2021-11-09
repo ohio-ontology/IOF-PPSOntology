@@ -1,4 +1,5 @@
 Sarkar, A., Sormaz, D., Koonce, D., & Farah, S. (2020) <a href= "https://doi.org/10.1007/978-3-030-76307-7_22"> Developing a Resource-Based Manufacturing Process Capability Ontology</a>. <i>International Conference of Production Research-Americas</i>, 293-306
+
 **Abstract**
 
 
