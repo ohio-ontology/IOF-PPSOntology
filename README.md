@@ -9,6 +9,10 @@ This is a report on efforts to develop a reference ontology for Process and Prod
 Currently, manufacturing engineering processes see the involvement of various managers, engineers, and operators interacting with several software tools, namely Product Life-cycle Management (PLM), Enterprise Resource Planning (ERP), and Manufacturing Execution Systems (MES) with data flowing in both directions.
 The development of the PPS ontologies stems from the definition of key use cases and competency questions that will be used for the validation as well. The proposed PPS ontologies will include relevant terms and will be linked to the IOF top level ontology. 
 
+![alt text](![image](https://user-images.githubusercontent.com/81836259/141975826-6559d2e3-4c00-433c-9aef-0fb167543e79.png)
+)
+
+
 **Use Cases**
 1. The process planning use case starts with a part design provided as a drawing or a CAD model (which has nominal geometry and tolerance specification) and the goal is to develop one or more process plans that will completely produce a part with given design, considering available production technologies, machines, tools and other resources. Those plans also need to include a sequence of processing steps that will guarantee achievement of prescribed tolerances. Currently in industry various levels of database search are performed (mostly for tools) in CAM tools in order to generate plans with using planners’ experience for capabilities and sequencing, while research prototypes apply rule-based reasoning combined with a search within limited data sources.
 
