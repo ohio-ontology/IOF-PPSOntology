@@ -11,6 +11,8 @@ The development of the PPS ontologies stems from the definition of key use cases
 
 ![image](https://user-images.githubusercontent.com/81836259/141977812-ba91e49a-7fb6-4c6d-a257-525ac1ab2e83.png)
 
+<img src="https://user-images.githubusercontent.com/81836259/141977812-ba91e49a-7fb6-4c6d-a257-525ac1ab2e83.png" width="100" height="100">
+
 **Figure 1.** Manufacturing enterprise process data flow
 
 
