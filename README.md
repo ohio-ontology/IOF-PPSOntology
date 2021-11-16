@@ -9,7 +9,6 @@ This is a report on efforts to develop a reference ontology for Process and Prod
 Currently, manufacturing engineering processes see the involvement of various managers, engineers, and operators interacting with several software tools, namely Product Life-cycle Management (PLM), Enterprise Resource Planning (ERP), and Manufacturing Execution Systems (MES) with data flowing in both directions.
 The development of the PPS ontologies stems from the definition of key use cases and competency questions that will be used for the validation as well. The proposed PPS ontologies will include relevant terms and will be linked to the IOF top level ontology. 
 
-![image](https://user-images.githubusercontent.com/81836259/141977812-ba91e49a-7fb6-4c6d-a257-525ac1ab2e83.png )
 
 <img src="https://user-images.githubusercontent.com/81836259/141977812-ba91e49a-7fb6-4c6d-a257-525ac1ab2e83.png" width="600">
 
@@ -30,7 +29,6 @@ Process and Production Planning ontology has been built by extending the terms d
 
 Therefore, the draft PPS ontology (Figure 2) includes only terms that extend classes and terms from upper level ontologies. The figure shows relevant classes from BFO (on the top, in orange), a few necessary terms from the CCO ontology (on the left, in yellow), several IOF classes (underneath BFO classes, in light orange). The current development of classes for PPP ontologies shows terms divided into two groups, i.e. design related terms (prefixed with DSGN), and process planning terms (prefixed with MFG). The figure shows only relationships among defined classes. 
 
-![image](https://user-images.githubusercontent.com/81836259/141982535-5ed76256-cbc4-412b-9444-743f56d4673b.png)
 
 <img src="https://user-images.githubusercontent.com/81836259/141982535-5ed76256-cbc4-412b-9444-743f56d4673b.png" width="1000">
 
