@@ -9,9 +9,9 @@ This is a report on efforts to develop a reference ontology for Process and Prod
 Currently, manufacturing engineering processes see the involvement of various managers, engineers, and operators interacting with several software tools, namely Product Life-cycle Management (PLM), Enterprise Resource Planning (ERP), and Manufacturing Execution Systems (MES) with data flowing in both directions.
 The development of the PPS ontologies stems from the definition of key use cases and competency questions that will be used for the validation as well. The proposed PPS ontologies will include relevant terms and will be linked to the IOF top level ontology. 
 
-![image](https://user-images.githubusercontent.com/81836259/141977812-ba91e49a-7fb6-4c6d-a257-525ac1ab2e83.png)
+![image](https://user-images.githubusercontent.com/81836259/141977812-ba91e49a-7fb6-4c6d-a257-525ac1ab2e83.png )
 
-<img src="https://user-images.githubusercontent.com/81836259/141977812-ba91e49a-7fb6-4c6d-a257-525ac1ab2e83.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/81836259/141977812-ba91e49a-7fb6-4c6d-a257-525ac1ab2e83.png" width="100">
 
 **Figure 1.** Manufacturing enterprise process data flow
 
