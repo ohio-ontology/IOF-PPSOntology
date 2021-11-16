@@ -28,7 +28,6 @@ Process and Production Planning ontology has been built by extending the terms d
 
 Therefore, the draft PPS ontology (Figure 2) includes only terms that extend classes and terms from upper level ontologies. The figure shows relevant classes from BFO (on the top, in orange), a few necessary terms from the CCO ontology (on the left, in yellow), several IOF classes (underneath BFO classes, in light orange). The current development of classes for PPP ontologies shows terms divided into two groups, i.e. design related terms (prefixed with DSGN), and process planning terms (prefixed with MFG). The figure shows only relationships among defined classes. 
 
-![image](https://user-images.githubusercontent.com/81836259/141981889-df9918de-8c26-4657-84f8-a3e1dbac0515.png)
 
 **Figure 2**. Inheritance hierarchy of PPS ontology terms
 
