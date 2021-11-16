@@ -32,7 +32,7 @@ Therefore, the draft PPS ontology (Figure 2) includes only terms that extend cla
 
 ![image](https://user-images.githubusercontent.com/81836259/141982535-5ed76256-cbc4-412b-9444-743f56d4673b.png)
 
-<img src="https://user-images.githubusercontent.com/81836259/141982535-5ed76256-cbc4-412b-9444-743f56d4673b.png" width="600">
+<img src="https://user-images.githubusercontent.com/81836259/141982535-5ed76256-cbc4-412b-9444-743f56d4673b.png" width="800">
 
 
 **Figure 2**. Inheritance hierarchy of PPS ontology terms
