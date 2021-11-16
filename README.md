@@ -21,3 +21,13 @@ The development of the PPS ontologies stems from the definition of key use cases
 2. The production system design use case takes place after process planning has been completed and consists in the definition of production system configurations that are able to reach the production goals while specifying the required production resources, process/resource assignments, layout design, etc. Candidate system configurations may be assessed thanks to performance evaluation methods and tools while iterating the system design loop. Currently, system design employs heterogeneous software tools that are spread among several departments. For example, dynamic performance evaluation (e.g. via discrete event simulation) relies on product and resource data, but simulation software tools do not provide integration paths with PLM/ERP systems.
 
 3. The scheduling optimization use case is a further step towards the operational control of production processes. In addition to process and resource data, scheduling also needs data from customers, i.e. orders and their due dates, suppliers and supplied components/materials lead times, etc. Currently optimization models are executed on separate optimization software, and it is really challenging to integrate their output into ERP and MES systems.
+
+
+**Process and Production Planning OWL Ontology**
+Process and Production Planning ontology has been built by extending the terms definitions based on the upper level ontology (BFO), a few midlevel ontologies (IAO, CCO) , and an IOF reference ontology from industrial applications (IOF core).
+
+Therefore, the draft PPS ontology (Figure 2) includes only terms that extend classes and terms from upper level ontologies. The figure shows relevant classes from BFO (on the top, in orange), a few necessary terms from the CCO ontology (on the left, in yellow), several IOF classes (underneath BFO classes, in light orange). The current development of classes for PPP ontologies shows terms divided into two groups, i.e. design related terms (prefixed with DSGN), and process planning terms (prefixed with MFG). The figure shows only relationships among defined classes. 
+
+
+
+
